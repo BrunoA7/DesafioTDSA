@@ -1,0 +1,35 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+
+@model List<ClienteCrud.web.Models.Entities.Cliente>
+
+<h1>Clientes</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Nome</th>
+            <th>Data Nascimento</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var cliente in Model)
+        {
+            <tr>
+                <td>@cliente.CLI_ID</td>
+                <td>@cliente.CLI_NOME</td>
+                <td>@cliente.CLI_DATANASCIMENTO</td>
+                <td>
+                    <a class="btn btn-primary" asp-controller="Clientes" asp-action="Edit" asp-route-id="@cliente.CLI_ID">Edite</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+    
+</table>

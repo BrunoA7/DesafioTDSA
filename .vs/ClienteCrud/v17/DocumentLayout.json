@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bruno\\OneDrive\\Documentos\\Github\\ClienteCrud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8BC7CC2-7F49-43C7-A15A-FDF0B8CD0A51}|ClienteCrud.web\\ClienteCrud.web.csproj|c:\\users\\bruno\\onedrive\\documentos\\github\\clientecrud\\clientecrud.web\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8BC7CC2-7F49-43C7-A15A-FDF0B8CD0A51}|ClienteCrud.web\\ClienteCrud.web.csproj|solutionrelative:clientecrud.web\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8BC7CC2-7F49-43C7-A15A-FDF0B8CD0A51}|ClienteCrud.web\\ClienteCrud.web.csproj|c:\\users\\bruno\\onedrive\\documentos\\github\\clientecrud\\clientecrud.web\\views\\clientes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8BC7CC2-7F49-43C7-A15A-FDF0B8CD0A51}|ClienteCrud.web\\ClienteCrud.web.csproj|solutionrelative:clientecrud.web\\views\\clientes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8BC7CC2-7F49-43C7-A15A-FDF0B8CD0A51}|ClienteCrud.web\\ClienteCrud.web.csproj|c:\\users\\bruno\\onedrive\\documentos\\github\\clientecrud\\clientecrud.web\\views\\clientes\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8BC7CC2-7F49-43C7-A15A-FDF0B8CD0A51}|ClienteCrud.web\\ClienteCrud.web.csproj|solutionrelative:clientecrud.web\\views\\clientes\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8BC7CC2-7F49-43C7-A15A-FDF0B8CD0A51}|ClienteCrud.web\\ClienteCrud.web.csproj|c:\\users\\bruno\\onedrive\\documentos\\github\\clientecrud\\clientecrud.web\\views\\clientes\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8BC7CC2-7F49-43C7-A15A-FDF0B8CD0A51}|ClienteCrud.web\\ClienteCrud.web.csproj|solutionrelative:clientecrud.web\\views\\clientes\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bruno\\OneDrive\\Documentos\\Github\\ClienteCrud\\ClienteCrud.web\\Views\\Clientes\\List.cshtml",
+              "RelativeDocumentMoniker": "ClienteCrud.web\\Views\\Clientes\\List.cshtml",
+              "ToolTip": "C:\\Users\\Bruno\\OneDrive\\Documentos\\Github\\ClienteCrud\\ClienteCrud.web\\Views\\Clientes\\List.cshtml",
+              "RelativeToolTip": "ClienteCrud.web\\Views\\Clientes\\List.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T20:18:04.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bruno\\OneDrive\\Documentos\\Github\\ClienteCrud\\ClienteCrud.web\\Views\\Clientes\\Add.cshtml",
+              "RelativeDocumentMoniker": "ClienteCrud.web\\Views\\Clientes\\Add.cshtml",
+              "ToolTip": "C:\\Users\\Bruno\\OneDrive\\Documentos\\Github\\ClienteCrud\\ClienteCrud.web\\Views\\Clientes\\Add.cshtml",
+              "RelativeToolTip": "ClienteCrud.web\\Views\\Clientes\\Add.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T19:47:38.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bruno\\OneDrive\\Documentos\\Github\\ClienteCrud\\ClienteCrud.web\\Views\\Clientes\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ClienteCrud.web\\Views\\Clientes\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Bruno\\OneDrive\\Documentos\\Github\\ClienteCrud\\ClienteCrud.web\\Views\\Clientes\\Edit.cshtml",
+              "RelativeToolTip": "ClienteCrud.web\\Views\\Clientes\\Edit.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAwBMAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T19:47:18.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno\\OneDrive\\Documentos\\Github\\ClienteCrud\\ClienteCrud.web\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "ClienteCrud.web\\Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\Bruno\\OneDrive\\Documentos\\Github\\ClienteCrud\\ClienteCrud.web\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "ClienteCrud.web\\Controllers\\ClientesController.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAA5wDgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T18:06:02.33Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
