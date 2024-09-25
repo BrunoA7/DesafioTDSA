@@ -33,7 +33,7 @@ namespace ClienteCrud.web.Controllers
 
             await dbContext.Clientes.AddAsync(cliente);
             await dbContext.SaveChangesAsync();
-            return View();
+            return RedirectToAction("List", "Clientes");
         }
 
 
